@@ -37,3 +37,5 @@ namespace apiRequestConsole
         }
     }
 }
+
+// This request is sent to my studentAPI project so make sure both projects are up and running!
